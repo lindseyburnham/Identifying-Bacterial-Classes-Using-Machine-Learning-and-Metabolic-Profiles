@@ -1,1 +1,1 @@
-# Identifying-Bacterial-Classes-Using-Machine-Learning-and-Metabolic-Profiles
+For my biochemistry final project at Middlebury, I investigated if one could identify bacterial classes using machine learning and metabolite data from LC-MS. In this repository you will find a quartz file that has my workflow for creating the model. 
